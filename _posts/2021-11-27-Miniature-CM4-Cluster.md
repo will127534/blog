@@ -1,8 +1,10 @@
 ---
-comments: true
-slug: index
+header:
+  image: https://i.imgur.com/k63rKBx.jpg
+  teaser: https://i.imgur.com/k63rKBx.jpg
+toc: true
 ---
-![](https://i.imgur.com/k63rKBx.jpg)
+
 
 ## Origin of the project
 There are many different tiny computer cluster projects on the internet, but back in the day, this one from Michal Zalewski catches my eye. It is based on Intel Edison and uses its onboard WiFi to do a tiny cluster.
