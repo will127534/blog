@@ -247,3 +247,11 @@ defaults:
       comments: true
       share: true
       related: false
+
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
