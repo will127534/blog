@@ -1,7 +1,10 @@
 ---
-comments: true
-slug: index
+header:
+  image: https://i.imgur.com/iy771Yf.jpg
+  teaser: https://i.imgur.com/iy771Yf.jpg
+toc: true
 ---
+
 # Coral M.2 Module
 
 It has been a long-time driver issue that the Google TPU Coral module doesn't support PCIe connection on Raspberry Pi 4, the only remaining way for raspberry pi is the USB 2.0 connection which for some bandwidth-heavy usage it will cause some performance impact. 

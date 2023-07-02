@@ -1,6 +1,8 @@
 ---
-comments: true
-slug: index
+header:
+  image: https://i.imgur.com/olbFNfe.jpg
+  teaser: https://i.imgur.com/olbFNfe.jpg
+toc: true
 ---
 
 # Open Source Camera Doors Unlocked
