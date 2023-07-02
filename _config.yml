@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Will Whang"
+title                    : "Will Whang's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 2.0"
 name                     : "Will Whang"
 description              : "Documenting what I've done."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -64,18 +64,13 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+  username               : "willwhang"
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/will_whang"
+    - "https://github.com/will127534/"
 
 # Analytics
 analytics:
