@@ -5,7 +5,6 @@ header:
 toc: true
 ---
 
-
 ## Origin of the project
 There are many different tiny computer cluster projects on the internet, but back in the day, this one from Michal Zalewski catches my eye. It is based on Intel Edison and uses its onboard WiFi to do a tiny cluster.
 ![](https://i.imgur.com/vM35KDH.png)  

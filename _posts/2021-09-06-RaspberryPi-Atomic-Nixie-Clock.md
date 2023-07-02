@@ -4,10 +4,6 @@ header:
   teaser: https://i.imgur.com/K8xKzDb.jpg
 toc: true
 ---
-
-# Raspberry Pi Atomic Nixie Clock
-
-![](https://i.imgur.com/K8xKzDb.jpg)
 ![](https://i.imgur.com/vn76Owb.jpg)
 
 ## Sys Arch

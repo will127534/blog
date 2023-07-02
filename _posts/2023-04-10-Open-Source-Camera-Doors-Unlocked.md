@@ -5,7 +5,6 @@ header:
 toc: true
 ---
 
-# Open Source Camera Doors Unlocked
 A long time ago, when the Raspberry Pi (RPI) 1 was released, I was fascinated by the shiny CSI/DSI interface on the board. I discovered that this is how smartphone cameras work! I eagerly searched for ways to attach this incredible interface to other, better sensors and spent countless hours browsing the web.  
 
 However, my enthusiasm was dampened when I realized that everything was locked behind the VideoCore.  

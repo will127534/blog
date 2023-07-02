@@ -5,8 +5,6 @@ header:
 toc: true
 ---
 
-# Raspberry Pi Compute Module 4 NVMe array NAS
-
 ## PCIe 2.0 x1 is the new USB 2.0 on Raspberry Pi
 
 Raspberry Pi Compute Module 4 is a very interesting product with its PCIe port, just look how many peripherals nowadays are PCIe based. With the current climate of moving everything to PCIe-based, the list just goes on and on.
