@@ -32,28 +32,13 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 100
 comments:
   provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), 
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : R_kgDOJ2lOsQ
+    repo_id              : "R_kgDOJ2lOsQ"
     category_name        : "Comments"
-    category_id          : DIC_kwDOJ2lOsc4CXoE9
+    category_id          : "DIC_kwDOJ2lOsc4CXoE9"
     discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+    reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
     theme                : "dark_dimmed" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
