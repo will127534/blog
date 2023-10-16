@@ -247,6 +247,7 @@ defaults:
       comments: true
       share: true
       related: false
+      classes: wide
 
 
 
