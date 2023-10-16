@@ -29,7 +29,9 @@ With the introduction of the Compute Module 4 (CM4) and its versatile applicatio
 ![Image of the enclosure](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/Image_of_the_enclosure.jpg)
 
 ## High-Level Architecture
-[Insert architectural diagram here]
+![architectural diagram](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/diagram.png)
+
+
 
 ## CM4 Camera V3
 To address space constraints, I divided the board into two components: the Main board and the Controller board + display adaptor. The Main board houses most of the critical components, boasting a 4-lane MIPI Display and Camera FPC header, along with provisions for future EF mount control:  
