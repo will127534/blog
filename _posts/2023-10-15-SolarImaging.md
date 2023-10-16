@@ -28,7 +28,7 @@ With the introduction of the Compute Module 4 (CM4) and its versatile applicatio
 
 ![Image of the enclosure](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/Image_of_the_enclosure.jpg)
 
-## High-Level Architecture
+## Block Diagram 
 ![architectural diagram](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/diagram.png)
 
 
