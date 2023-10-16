@@ -300,7 +300,7 @@ Still, I set up my telescope, holding out hope that I could capture some shots i
 
 Surprisingly, the 200mm lens proved to be quite useful in assessing the seeing conditions. Here's a time-lapse video recorded with the secondary camera system, which provided a clear view of the forecast.  
 Here is the image/video taken with 200mm lens:  
-<iframe width="100%"
+<iframe
 src="https://www.youtube.com/embed/QcQgiWZYVVU">
 </iframe>
 
@@ -317,7 +317,7 @@ At the same time, the frequent disappearance of the sun behind the clouds meant 
 Nonetheless, despite the challenges posed by the weather, I managed to capture some images:  
 
 Here is the one taken with main telescope:  
-<iframe width="100%"
+<iframe
 src="https://www.youtube.com/embed/lWSdXromOec">
 </iframe>
 
