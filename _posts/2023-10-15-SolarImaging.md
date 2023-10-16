@@ -16,6 +16,8 @@ Whenever I have the chance to explore solar imaging, I'm on the lookout for imag
 
 ![Photo of the 2020 imaging system](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/2020_imaging_system.png)
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">With RPI tracking the Sun <a href="https://t.co/xhnqGD26hS">pic.twitter.com/xhnqGD26hS</a></p>&mdash; will whang🌻 (@will_whang) <a href="https://twitter.com/will_whang/status/1276197199647404033?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The results were astounding:  
 ![Photo of the 2020 imaging result](https://raw.githubusercontent.com/will127534/will127534.github.io/main/assets/images/Solareclipse2023/2020_result.jpg)
 
