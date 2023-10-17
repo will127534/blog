@@ -384,7 +384,7 @@ For math-intensive tasks like bit-shifting pixel data, Chat-GPT struggled, even 
 Overall, Chat-GPT was quite useful for simple coding tasks, such as generating C code to run on CH32V003 to read encoders and buttons. I was more than satisfied with its ability to assist with such miscellaneous coding needs.  
 
 # Summing Up
-Reflecting on my journey from the 2020 solar eclipse to the 2023 event and beyond, I'm quite satisfied with the progress I've made over the years. With the help of tools like libcamera and my own CinePi forks, I've been able to surpass what I initially envisioned back in 2020. I'm grateful to all the developers who assisted me throughout this journey and patiently addressed my unique questions and challenges.  
+Reflecting on my journey from the 2020 solar eclipse to the 2023 event and beyond, I'm quite satisfied with the progress I've made over the years. With the help of tools and people from libcamera and CinePi forks, I've been able to surpass what I initially envisioned back in 2020. I'm grateful to all the developers who assisted me throughout this journey and patiently addressed my unique questions and challenges.  
 
 The results of the 2023 solar eclipse weren't the best I could achieve, but I'm still grateful that I was able to witness it with my own eyes. For the upcoming 2024 solar eclipse, I plan to conduct more thorough research on the location and carefully plan the trip. I also hope to make necessary upgrades and changes in advance.  
 
