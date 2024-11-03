@@ -119,6 +119,7 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
+  - .DS_store
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
@@ -242,12 +243,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: true
       share: true
       related: false
-      classes: wide
+      title: false
+      wide: true
 
 
 
